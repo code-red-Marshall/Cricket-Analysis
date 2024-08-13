@@ -28,14 +28,11 @@ The process for analyzing the bat speed involves the following steps:
 
 ## Installation
 
-1. Clone the repository:
+ Clone the repository:
     ```bash
     git clone https://github.com/yourusername/bat-speed-analysis.git
     ```
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 
