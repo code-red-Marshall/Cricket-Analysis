@@ -45,10 +45,6 @@ The process for analyzing the bat speed involves the following steps:
     ```bash
     jupyter notebook Crick\ Analysis.ipynb
     ```
-    or
-    ```bash
-    python crick_analysis.py
-    ```
 4. The output video with the detected bat speed will be saved as `output_combined.avi`.
 
 ## Results
